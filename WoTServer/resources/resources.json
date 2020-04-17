@@ -1,0 +1,14 @@
+{
+  "pi": {
+    "name": "WoT Pi",
+    "description": "A simple WoT-connected Raspberry PI for the AmI Lab",
+    "port": 8484,
+    "sensors": {
+      "DoorSensor": {
+        "name": "Door Sensor",
+        "description": "A door sensor.",
+        "value": 0
+      }
+    }
+  }
+}
