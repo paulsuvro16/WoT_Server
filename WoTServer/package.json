@@ -32,7 +32,7 @@
     "msgpack5": "^3.6.0",
     "node-json2html": "^1.4.0",
     "package.json": "^2.0.1",
-    "ws": "^3.3.1"
+    "ws": "^5.2.3"
   },
   "optionalDependencies": {
     "onoff": "^1.0.4",
